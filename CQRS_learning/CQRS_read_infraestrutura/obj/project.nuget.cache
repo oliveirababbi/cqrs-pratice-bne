@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "53AHFqR5g6dHNZ8xBo9g6Td/G6AISzMv7d1I6GOP/lwKT9DyT8jd6soJSWHvI1cn6ImipYDRl1onOZc6oMvEcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Babbi\\Desktop\\BNE\\datalake-bne\\CQRS_learning\\CQRS_read_infraestrutura\\CQRS_read_infraestrutura.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Babbi\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
